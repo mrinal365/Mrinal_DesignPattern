@@ -1,0 +1,36 @@
+2020-03-09 23:28:07 WARN  com.maven_designpattern_task.design_pattern_task.Client:25 - This is example of Singleton Pattern Method
+2020-03-09 23:28:07 INFO  com.maven_designpattern_task.design_pattern_task.Client:28 - Output of first singleton Object :
+2020-03-09 23:28:07 WARN  com.maven_designpattern_task.design_pattern_task.Client:29 - singleton_pattern.SingletonClass@44a3ec6b
+2020-03-09 23:28:07 INFO  com.maven_designpattern_task.design_pattern_task.Client:30 - Output of second singleton Object :
+2020-03-09 23:28:07 WARN  com.maven_designpattern_task.design_pattern_task.Client:31 - singleton_pattern.SingletonClass@44a3ec6b
+2020-03-09 23:28:07 INFO  com.maven_designpattern_task.design_pattern_task.Client:33 - Both the objects are equal 
+2020-03-09 23:28:07 WARN  com.maven_designpattern_task.design_pattern_task.Client:37 - This is example of Factory Pattern Method
+2020-03-09 23:28:07 INFO  com.maven_designpattern_task.design_pattern_task.Client:41 - This is C Programming Language
+2020-03-09 23:28:07 INFO  com.maven_designpattern_task.design_pattern_task.Client:44 - This is Java Programming Language
+2020-03-09 23:28:07 WARN  com.maven_designpattern_task.design_pattern_task.Client:48 - Example of Adapter Pattern
+2020-03-09 23:28:08 INFO  com.maven_designpattern_task.design_pattern_task.Client:11 - I am an employee of EPAM
+2020-03-09 23:28:08 WARN  com.maven_designpattern_task.design_pattern_task.Client:55 - Example of Composite Pattern
+2020-03-09 23:28:08 INFO  com.maven_designpattern_task.design_pattern_task.Client:16 - RAM:3000
+2020-03-09 23:28:08 INFO  com.maven_designpattern_task.design_pattern_task.Client:27 - Peri
+2020-03-09 23:28:08 INFO  com.maven_designpattern_task.design_pattern_task.Client:16 - Keyborad:150
+2020-03-09 23:28:08 INFO  com.maven_designpattern_task.design_pattern_task.Client:16 - Monitor:6000
+2020-03-09 23:28:08 INFO  com.maven_designpattern_task.design_pattern_task.Client:27 - Computer
+2020-03-09 23:28:08 INFO  com.maven_designpattern_task.design_pattern_task.Client:27 - Peri
+2020-03-09 23:28:08 INFO  com.maven_designpattern_task.design_pattern_task.Client:16 - Keyborad:150
+2020-03-09 23:28:08 INFO  com.maven_designpattern_task.design_pattern_task.Client:16 - Monitor:6000
+2020-03-09 23:28:08 INFO  com.maven_designpattern_task.design_pattern_task.Client:27 - Cabinet
+2020-03-09 23:28:08 INFO  com.maven_designpattern_task.design_pattern_task.Client:16 - SSD:4000
+2020-03-09 23:28:08 INFO  com.maven_designpattern_task.design_pattern_task.Client:27 - Mother Board
+2020-03-09 23:28:08 INFO  com.maven_designpattern_task.design_pattern_task.Client:16 - CPU:10000
+2020-03-09 23:28:08 INFO  com.maven_designpattern_task.design_pattern_task.Client:16 - RAM:3000
+2020-03-09 23:28:08 WARN  com.maven_designpattern_task.design_pattern_task.Client:60 - Example of Observer Pattern
+2020-03-09 23:28:08 WARN  com.maven_designpattern_task.design_pattern_task.Client:20 - Hey Parul Video Uploaded : How to learn JAVA
+2020-03-09 23:28:08 WARN  com.maven_designpattern_task.design_pattern_task.Client:20 - Hey Ekta Video Uploaded : How to learn JAVA
+2020-03-09 23:28:08 WARN  com.maven_designpattern_task.design_pattern_task.Client:20 - Hey Aarti Video Uploaded : How to learn JAVA
+2020-03-09 23:28:08 WARN  com.maven_designpattern_task.design_pattern_task.Client:20 - Hey Palak Video Uploaded : How to learn JAVA
+2020-03-09 23:28:08 WARN  com.maven_designpattern_task.design_pattern_task.Client:65 - Example of State Pattern
+2020-03-09 23:28:08 INFO  com.maven_designpattern_task.design_pattern_task.Client:14 - Vibration........
+2020-03-09 23:28:08 INFO  com.maven_designpattern_task.design_pattern_task.Client:14 - Vibration........
+2020-03-09 23:28:08 INFO  com.maven_designpattern_task.design_pattern_task.Client:13 - Silent!!!!!
+2020-03-09 23:28:08 INFO  com.maven_designpattern_task.design_pattern_task.Client:13 - Silent!!!!!
+2020-03-09 23:28:08 INFO  com.maven_designpattern_task.design_pattern_task.Client:13 - Silent!!!!!
